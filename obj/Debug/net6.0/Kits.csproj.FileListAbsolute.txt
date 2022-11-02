@@ -1,0 +1,17 @@
+C:\Users\Caroline\Documents\Coding\Kits\bin\Debug\net6.0\Kits.exe
+C:\Users\Caroline\Documents\Coding\Kits\bin\Debug\net6.0\Kits.deps.json
+C:\Users\Caroline\Documents\Coding\Kits\bin\Debug\net6.0\Kits.runtimeconfig.json
+C:\Users\Caroline\Documents\Coding\Kits\bin\Debug\net6.0\Kits.dll
+C:\Users\Caroline\Documents\Coding\Kits\bin\Debug\net6.0\Kits.pdb
+C:\Users\Caroline\Documents\Coding\Kits\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Caroline\Documents\Coding\Kits\obj\Debug\net6.0\Kits.csproj.AssemblyReference.cache
+C:\Users\Caroline\Documents\Coding\Kits\obj\Debug\net6.0\Kits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caroline\Documents\Coding\Kits\obj\Debug\net6.0\Kits.AssemblyInfoInputs.cache
+C:\Users\Caroline\Documents\Coding\Kits\obj\Debug\net6.0\Kits.AssemblyInfo.cs
+C:\Users\Caroline\Documents\Coding\Kits\obj\Debug\net6.0\Kits.csproj.CoreCompileInputs.cache
+C:\Users\Caroline\Documents\Coding\Kits\obj\Debug\net6.0\Kits.csproj.CopyComplete
+C:\Users\Caroline\Documents\Coding\Kits\obj\Debug\net6.0\Kits.dll
+C:\Users\Caroline\Documents\Coding\Kits\obj\Debug\net6.0\refint\Kits.dll
+C:\Users\Caroline\Documents\Coding\Kits\obj\Debug\net6.0\Kits.pdb
+C:\Users\Caroline\Documents\Coding\Kits\obj\Debug\net6.0\Kits.genruntimeconfig.cache
+C:\Users\Caroline\Documents\Coding\Kits\obj\Debug\net6.0\ref\Kits.dll
