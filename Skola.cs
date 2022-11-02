@@ -1,4 +1,4 @@
-public class Skolor
+public class Skola
 {
     public int Kod {get; set;}
     public string Kommun {get; set;}
@@ -6,14 +6,13 @@ public class Skolor
     public string Grundskola {get; set;}
     public string Förskola {get; set;}
     public string Fritidshem {get; set;}
-    
 
-    public Skolor()
+    public Skola()
     {
-        
-    }
 
-    public Skolor(int kod, string kommun, string skolenhetsnamn, string grundskola, string förskola, string fritidshem)
+    }
+    
+    public Skola(int kod, string kommun, string skolenhetsnamn, string grundskola, string förskola, string fritidshem)
     {
         Kod = kod;
         Kommun = kommun;
@@ -21,8 +20,5 @@ public class Skolor
         Grundskola = grundskola;
         Förskola = förskola;
         Fritidshem = fritidshem;
-
     }
-
-
 }

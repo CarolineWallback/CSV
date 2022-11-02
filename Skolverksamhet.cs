@@ -1,4 +1,4 @@
-public class SkolverksamhetData
+public class Skolverksamhet
 {
     public int Kod {get; set;}
     public string Skolenhetsnamn {get; set;}
@@ -6,7 +6,7 @@ public class SkolverksamhetData
     public string Förskola {get; set;}
     public string Fritidshem {get; set;}
 
-    public SkolverksamhetData(){
+    public Skolverksamhet(){
         
     }
 }

@@ -1,6 +1,6 @@
 using CsvHelper.Configuration;
 
-public class SkolverksamhetMap : ClassMap<SkolverksamhetData>
+public class SkolverksamhetMap : ClassMap<Skolverksamhet>
 {
     public SkolverksamhetMap()
     {

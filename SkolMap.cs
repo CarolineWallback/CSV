@@ -1,6 +1,6 @@
 using CsvHelper.Configuration;
 
-public class SkolMap : ClassMap<Skolor>
+public class SkolMap : ClassMap<Skola>
 {
     public SkolMap()
     {
